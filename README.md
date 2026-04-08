@@ -40,3 +40,22 @@ make
 
 # To clean build files
 make clean
+```
+
+## Future Enhancements
+
+- **Artificial Intelligence**: Implement a Minimax algorithm for single-player mode.
+- **Dynamic Sizing**: Allow users to define custom row/column counts at runtime.
+- **GUI Integration**: Transition from terminal-based UI to a graphical interface using GTK-3.
+- **Persistent Stats**: Save win/loss records to a local `.txt` file.
+- **Color Support**: Use ANSI escape codes to render tokens in actual red and yellow text in the terminal.
+
+## References
+
+- [C11 Standard Documentation](https://www.iso.org/standard/74528.html)
+- [GNU Make Manual](https://www.gnu.org/software/make/manual/make.html)
+- [University of Toronto - Engineering Standards](https://www.engineering.utoronto.ca/)
+
+## License
+
+This project was developed for educational purposes as part of first-year engineering coursework at the University of Toronto.
